@@ -1,6 +1,6 @@
 # Schedule a Python script with GitHub Actions
 
-**Watch the video tutorial:**
+**Watch the video tutorial.:**
 
 [![Alt text](https://img.youtube.com/vi/PaGp7Vi5gfM/hqdefault.jpg)](https://youtu.be/PaGp7Vi5gfM)
 
